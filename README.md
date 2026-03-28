@@ -28,7 +28,6 @@ Pracuję samodzielnie oraz z klientami, przekształcając złożone wymagania w 
 ## Aktualnie
 
 - Rozwijam aplikację mobilną **Fitnik** — React Native, Expo, Supabase
-- Tworzę komercyjne rozszerzenia do ekosystemu **Comarch ERP XL**
 - Zarządzam infrastrukturą **Proxmox VE** z tunelami Cloudflare Zero Trust
 - Otwarty na projekty freelancerskie — web, mobile, integracje systemowe
 
