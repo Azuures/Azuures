@@ -12,7 +12,7 @@
 
 ## O mnie
 
-Specjalista IT i developer z doświadczeniem obejmującym pełne spektrum branży — tworzenie oprogramowania, administrację serwerami, wdrożenia systemowe i wsparcie klientów. Swobodnie poruszam się między pisaniem kodu a zarządzaniem infrastrukturą, która go uruchamia.
+Specjalista IT i developer z doświadczeniem obejmującym pełne spektrum branży - tworzenie oprogramowania, administrację serwerami, wdrożenia systemowe i wsparcie klientów. Swobodnie poruszam się między pisaniem kodu a zarządzaniem infrastrukturą, która go uruchamia.
 
 Pracuję samodzielnie oraz z klientami, przekształcając złożone wymagania w działające, utrzymywalne rozwiązania. Wolę wchodzić głęboko w problem niż zatrzymywać się na pierwszym podejściu które kompiluje się bez błędów.
 
@@ -27,9 +27,9 @@ Pracuję samodzielnie oraz z klientami, przekształcając złożone wymagania w 
 
 ## Aktualnie
 
-- Rozwijam aplikację mobilną **Fitnik** — React Native, Expo, Supabase
+- Rozwijam aplikację mobilną **Fitnik** - React Native, Expo, Supabase
 - Zarządzam infrastrukturą **Proxmox VE** z tunelami Cloudflare Zero Trust
-- Otwarty na projekty freelancerskie — web, mobile, integracje systemowe
+- Otwarty na projekty freelancerskie - web, mobile, integracje systemowe
 
 ---
 
@@ -37,8 +37,8 @@ Pracuję samodzielnie oraz z klientami, przekształcając złożone wymagania w 
 
 | | |
 |---|---|
-| **Ulubiony setup** | Linux + nginx + Cloudflare — stabilny, bezpieczny, pod kontrolą |
-| **Podejście** | Najpierw rozumiem problem — potem piszę rozwiązanie |
+| **Ulubiony setup** | Linux + nginx + Cloudflare - stabilny, bezpieczny, pod kontrolą |
+| **Podejście** | Najpierw rozumiem problem - potem piszę rozwiązanie |
 | **Poza kodem** | Śledzę scenę Twitch, interesuję się branżą gamingową |
 
 ---
@@ -125,7 +125,7 @@ Pracuję samodzielnie oraz z klientami, przekształcając złożone wymagania w 
 
 ## Współpraca
 
-Dostępny na projekty freelancerskie — aplikacje webowe i mobilne, integracje systemowe, infrastruktura IT. Napisz, chętnie porozmawiam o szczegółach.
+Dostępny na projekty freelancerskie - aplikacje webowe i mobilne, integracje systemowe, infrastruktura IT. Napisz, chętnie porozmawiam o szczegółach.
 
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kontakt@fexcode.pl)
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/2NhVyRp8EG)
